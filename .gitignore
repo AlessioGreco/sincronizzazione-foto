@@ -1,0 +1,20 @@
+# personal data created by the program
+config.json
+history.json
+error.log
+
+# rules exported with "Export rules..." (they contain personal paths)
+*-rules.json
+
+# old Excel configuration (personal, replaced by config.json)
+Sincronizza.xlsx
+~$*.xlsx
+
+# temp / editors
+*.bak
+*.tmp
+.vs/
+.vscode/
+
+# build output
+dist/
